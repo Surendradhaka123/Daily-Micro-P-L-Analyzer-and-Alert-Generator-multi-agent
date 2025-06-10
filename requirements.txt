@@ -1,0 +1,4 @@
+groq
+pypandoc
+python-multipart
+openpyxl

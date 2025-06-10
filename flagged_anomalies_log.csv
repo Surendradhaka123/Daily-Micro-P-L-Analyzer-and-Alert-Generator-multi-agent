@@ -1,0 +1,20 @@
+Date,Line Item,% of Revenue,Target Range,Status
+Day 1.0,Manpower,30.43,25-27%,Flagged
+Day 1.0,Packaging,7.8,5-7%,Flagged
+Day 1.0,Power and Fuel,12.86,10-12%,Flagged
+Day 1.0,FC Rent,14.98,15-18%,Flagged
+Day 1.0,Equipment Rentals,4.48,5-8%,Flagged
+Day 1.0,CM1%,61.77,65-70%,Flagged
+Day 2.0,Manpower,31.93,25-27%,Flagged
+Day 2.0,FC Rent,18.9,15-18%,Flagged
+Day 2.0,Overheads,12.1,10-12%,Flagged
+Day 2.0,CM1%,61.36,65-70%,Flagged
+Day 3.0,Manpower,27.43,25-27%,Flagged
+Day 3.0,Equipment Rentals,8.92,5-8%,Flagged
+Day 3.0,Overheads,9.32,10-12%,Flagged
+Day 4.0,Power and Fuel,12.69,10-12%,Flagged
+Day 4.0,FC Rent,13.01,15-18%,Flagged
+Day 4.0,Overheads,12.84,10-12%,Flagged
+Day 5.0,Packaging,7.02,5-7%,Flagged
+Day 5.0,Power and Fuel,13.31,10-12%,Flagged
+Day 5.0,Equipment Rentals,4.79,5-8%,Flagged
